@@ -12,7 +12,7 @@ String about = "   I am an experienced Android developer and a UI/UX Designer in
 
 "I have obtained a B.E. degree from the Mumbai University in Information Technology.\n \n"
 
-"I have in total over 3+ years of active Android development experience. I have worked on numerous projects used by hundreds of thousands of people. Snaptasic selfie challenge app and Jobportal Appplication just a few.I have created two Android Open Source libraries"+
+"I have in total over 3+ years of active Android development experience. I have worked on numerous projects used by hundreds of thousands of people. Snaptasic selfie challenge app and Jobportal Appplication just a few.I have created two Android Open Source libraries "+
 "MyLoadingButton and DualMultiSelection Spinner are available on GitHub and like to contribute more.I am UI/UX and Logo designer as well who fond of animations an prototypes.\n \n"+
 
 "I am eager to constantly learn new things. At the moment, my focus is on the new Flutter(Mobile) and Flutter(Web), Cross Platform features, RxJava and RxAndroid, Kotlin, architectural patterns on Android (MVVM, MVP, etc.) and of course I am always up for trying out the newest Android libraries.\n \n"+
