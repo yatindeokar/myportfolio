@@ -255,10 +255,10 @@ List<String> appsLink = ["https://play.google.com/store/apps/details?id=com.yati
             ),
             color: Colors.red,
             onPressed: () {
-              // html.window
-              //     .open("https://about.me/itsravishankarsingh", "About Me");
+              html.window
+                  .open('https://drive.google.com/file/d/1qXyaGOUcnC5Fs9FUAhJk07Xng_kY8PTn/view?usp=sharing', "About Me");
 
-              html.window.location.assign('http://hdqwalls.com/wallpapers/iron-man-hd-2018-bn.jpg');
+              // html.window.location.assign('https://drive.google.com/file/d/1qXyaGOUcnC5Fs9FUAhJk07Xng_kY8PTn/view?usp=sharing');
             },
             padding: EdgeInsets.all(10),
           ),
